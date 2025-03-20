@@ -2,15 +2,15 @@
 La carpeta **Web** contiene todos los archivos relacionados con la interfaz y funcionalidad web del proyecto. Aquí se encuentran los archivos del frontend, scripts, estilos y componentes necesarios para la correcta visualización y experiencia del usuario. Su estructura permite mantener el código organizado y optimizado para futuras mejoras y mantenimiento.
 # Estructura de Archivos
 >Proyecto Integrador Gym(Atencion al Cliente)<br>
->| - DBs
->| - Deliverables
->| - Docs
->| - **Prototypes**
+>| - DBs<br>
+>| - Deliverables<br>
+>| - Docs<br>
+>| - **Prototypes**<br>
 >&nbsp;&nbsp;|- API
 >&nbsp;&nbsp;|- Mobile
 >&nbsp;&nbsp;|- VoiceSkill
 >&nbsp;&nbsp;|- Wearable
->&nbsp;&nbsp;|- **Web**
+>&nbsp;&nbsp;|- **Web**<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;|- Assets
 >&nbsp;&nbsp;&nbsp;&nbsp;|- CSS
 >&nbsp;&nbsp;&nbsp;&nbsp;|- Docs
