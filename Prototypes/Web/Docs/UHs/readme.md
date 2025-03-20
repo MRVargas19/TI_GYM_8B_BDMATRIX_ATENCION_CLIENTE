@@ -32,14 +32,13 @@
 
 
 ## Equipo de Desarrollo
-
 |Integrante|Contacto|Rol|Observaciones|
-|------------|--------|---|---|
-|Carlos Armando Aranda Hernandez|[@Carlicsus](https://github.com/Carlicsus)|Desarrollador de Backend|...|
-|Carolina Arias Reyes|[@Pozole10](https://github.com/Pozole10)|Desarrollador de Frontend|...|
-|Edgar Cruz Salas|[@Ederdal](https://github.com/Ederdal)|Desarrollador de Base de datos|...|
-|Ángel Zacek Gutiérrez Cruz|[@Zac-ek](https://github.com/Zac-ek)|Desarrollador Backend|...|
-|Diego Hernández Mota|[@MotaBytes](https://github.com/MotaBytes)|Desarrollador Frontend|...|
-|Raul Reyes batalla|[@RaulReyesB](https://github.com/RaulReyesB)|Desarrollador Base de datos|...|
+|----------|--------|---|-------------|
+|Jaime Vázquez Santiago|[@jaimevs](https://github.com/jaimevs)|Líder de Desarrollo Frontend|...|
+|Ana Karen Crisantos Reyes|[@AnaCrisanto](https://github.com/AnaCrisanto)|Desarrollador de Bases de Datos|...|
+|Martin Vargas Gutierrez|[@MRVargas19](https://github.com/MRVargas19)|Desarrollador FrontEnd|...|
+|Alejandro Gonzales Romero|[@AlejandroRomero17](https://github.com/AlejandroRomero17)|Desarrollador Backend|...|
+
+Creado por: [@MRVargas19](https://github.com/MRVargas19).
  
  
