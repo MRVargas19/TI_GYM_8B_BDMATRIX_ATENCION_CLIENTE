@@ -28,13 +28,3 @@ La carpeta **Web** contiene todos los archivos relacionados con la interfaz y fu
 
 Creado por: [@AnaCrisanto](https://github.com/AnaCrisanto).
 
-
-
-
-
-
-
-
-
-
-
