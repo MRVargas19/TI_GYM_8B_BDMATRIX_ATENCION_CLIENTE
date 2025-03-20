@@ -1,4 +1,4 @@
-# TI-Hospital-Pozoles 🏥
+# TI-Gym-DBMatrix 
 ## 📁 Manual ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ## 📌 Descripción  
 Este directorio (**Manual**) contiene **copias de seguridad realizadas manualmente** de la base de datos NoSQL. Estas copias pueden ser **completas o parciales**, según las necesidades del equipo.

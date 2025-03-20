@@ -1,4 +1,4 @@
-# TI-Hospital-Pozoles 🏥
+# TI-Gym-DBMatrix
 ##  Schemas ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ##  Descripción  
 La carpeta **Schemas** almacena esquemas de validación para estructurar y verificar los datos antes de guardarlos en la base de datos NoSQL. Estos esquemas garantizan la integridad y evitan errores de validación.

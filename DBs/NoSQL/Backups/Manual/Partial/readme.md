@@ -1,4 +1,4 @@
-# TI-Hospital-Pozoles 🏥
+# TI-Gym-DBMatrix 
 ## 📁 Partial (Manual) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ## 📌 Descripción  
 Este directorio (**Partial**) contiene **copias de seguridad parciales** de la base de datos NoSQL, generadas automáticamente en intervalos programados. Estas copias solo incluyen **ciertas colecciones o conjuntos de datos** específicos.

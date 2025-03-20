@@ -1,4 +1,4 @@
-# TI-Hospital-Pozoles 🏥
+# TI-Gym-DBMatrix 
 ## 📁 Poblate ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ## 📌 Descripción  
 Este directorio (**Poblate**) contiene **scripts de poblamiento** utilizados para **insertar datos de prueba o datos iniciales** en la base de datos del sistema **TI-Hospital-Pozoles**. Los datos de ejemplo son útiles para las pruebas, desarrollo y verificación de la correcta funcionalidad del sistema antes de ser desplegado en un entorno de producción.

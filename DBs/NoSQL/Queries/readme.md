@@ -1,4 +1,4 @@
-# TI-Hospital-Pozoles 🏥
+# TI-Gym-DBMatrix 
 ##  Queries ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ##  Descripción  
 La carpeta **Queries** contiene consultas para recuperar, actualizar o eliminar datos en la base de datos NoSQL. Estas consultas están optimizadas para mejorar el rendimiento y cumplir con los requisitos del sistema.

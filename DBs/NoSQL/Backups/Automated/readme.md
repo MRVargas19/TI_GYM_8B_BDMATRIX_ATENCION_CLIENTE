@@ -1,4 +1,4 @@
-# TI-Hospital-Pozoles 🏥
+# TI-Gym-DBMatrix 
 ##  Automated ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ##  Descripción  
 La carpeta **Automated** almacena copias de seguridad automáticas de la base de datos NoSQL, generadas en intervalos programados. Estas copias pueden ser completas o parciales, según la configuración establecida.

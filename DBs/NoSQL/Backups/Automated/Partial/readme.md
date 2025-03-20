@@ -1,4 +1,4 @@
-# TI-Hospital-Pozoles 🏥
+# TI-Gym-DBMatrix 
 ##  Partial (Automated) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ##  Descripción  
 La carpeta **Partial** contiene respaldos manuales parciales de la base de datos NoSQL. Estas copias incluyen únicamente las colecciones o datos específicos seleccionados por el usuario.

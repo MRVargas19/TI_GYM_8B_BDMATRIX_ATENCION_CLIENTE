@@ -1,4 +1,4 @@
-# TI-Hospital-Pozoles 🏥
+# TI-Gym-DBMatrix 
 ##  Scripts ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ##  Descripción  
 La carpeta **Scripts** contiene archivos para gestionar la base de datos, incluyendo migraciones, inicialización de datos y tareas programadas, facilitando su administración.
