@@ -1,4 +1,4 @@
- # Triggers
+ # Triggers ![SQL](https://img.shields.io/badge/SQL-blue?logo=microsoftsqlserver)
 La carpeta **Triggers** contiene archivos relacionados con los triggers, que son acciones automáticas ejecutadas al insertar, actualizar o borrar datos. Incluye scripts, documentación y ejemplos que ayudan a mantener los datos seguros y consistentes.
 
 # Estructura de Archivos

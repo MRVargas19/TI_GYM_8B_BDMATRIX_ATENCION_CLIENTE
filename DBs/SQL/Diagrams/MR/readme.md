@@ -1,5 +1,5 @@
 # MR
-La carpeta MR (Modelo Relacional) contiene los archivos y documentos relacionados con el diseño y la implementación del modelo relacional de la base de datos. Este modelo se enfoca en la organización de los datos en tablas, con sus respectivas columnas, claves primarias, claves foráneas y relaciones entre ellas. Los archivos en esta carpeta pueden incluir esquemas de tablas, scripts de creación de bases de datos, y documentación relacionada con la estructura relacional. Es fundamental para la implementación y mantenimiento de la base de datos en un entorno relacional.
+La carpeta **MR** (Modelo Relacional) contiene los archivos y documentos relacionados con el diseño y la implementación del modelo relacional de la base de datos. Este modelo se enfoca en la organización de los datos en tablas, con sus respectivas columnas, claves primarias, claves foráneas y relaciones entre ellas. Los archivos en esta carpeta pueden incluir esquemas de tablas, scripts de creación de bases de datos, y documentación relacionada con la estructura relacional. Es fundamental para la implementación y mantenimiento de la base de datos en un entorno relacional.
 
 # Estructura de Archivos
 &nbsp;>Proyecto Integrador Gym(Atencion al Cliente)<br>

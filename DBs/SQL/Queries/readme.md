@@ -1,6 +1,6 @@
  # Queries
 La carpeta **Queries** contiene archivos relacionados con consultas a la base de datos. Aquí encontrarás scripts SQL que sirven para acceder, modificar o analizar datos, así como ejemplos y resultados esperados. 
-# Estructura de Archivos
+
 # Estructura de Archivos
 >Proyecto Integrador Gym(Atencion al Cliente)<br>
 >&nbsp;&nbsp;|- DBs.<br>
