@@ -6,16 +6,16 @@ La carpeta **Web** contiene todos los archivos relacionados con la interfaz y fu
 >| - Deliverables<br>
 >| - Docs<br>
 >| - **Prototypes**<br>
->&nbsp;&nbsp;|- API
->&nbsp;&nbsp;|- Mobile
->&nbsp;&nbsp;|- VoiceSkill
->&nbsp;&nbsp;|- Wearable
+>&nbsp;&nbsp;|- API<br>
+>&nbsp;&nbsp;|- Mobile<br>
+>&nbsp;&nbsp;|- VoiceSkill<br>
+>&nbsp;&nbsp;|- Wearable<br>
 >&nbsp;&nbsp;|- **Web**<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- Assets
->&nbsp;&nbsp;&nbsp;&nbsp;|- CSS
->&nbsp;&nbsp;&nbsp;&nbsp;|- Docs
->&nbsp;&nbsp;&nbsp;&nbsp;|- HTML
->&nbsp;&nbsp;&nbsp;&nbsp;|- JS
+>&nbsp;&nbsp;&nbsp;&nbsp;|- Assets<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;|- CSS<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;|- Docs<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;|- HTML<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;|- JS<br>
 >| - QA<br>
 
 # Equipo de Desarrollo
