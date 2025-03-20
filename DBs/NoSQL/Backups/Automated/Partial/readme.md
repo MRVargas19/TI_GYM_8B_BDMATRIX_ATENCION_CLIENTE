@@ -1,7 +1,7 @@
 # TI-Gym-DBMatrix 
 ##  Partial (Automated) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ##  Descripción  
-La carpeta **Partial** contiene respaldos manuales parciales de la base de datos NoSQL. Estas copias incluyen únicamente las colecciones o datos específicos seleccionados por el usuario.
+La carpeta Partial contiene respaldos manuales parciales de la base de datos NoSQL, los cuales son realizados por el usuario según sea necesario. Estos respaldos no incluyen toda la base de datos, sino solo las colecciones o los datos específicos que el usuario selecciona para proteger o almacenar. Este tipo de copia es útil cuando se desea realizar un respaldo más rápido o cuando solo se necesita preservar una parte concreta de la información en lugar de toda la base de datos.
 
 ## Estructura de archivos 
 >Proyecto Integrador Gym(Atencion al Cliente)<br>

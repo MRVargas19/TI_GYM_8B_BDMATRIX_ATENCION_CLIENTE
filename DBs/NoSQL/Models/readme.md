@@ -1,7 +1,7 @@
 
 ##  Models ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ##  Descripción  
-La carpeta **Models** contiene los modelos de la base de datos NoSQL, donde se define la estructura de las colecciones, incluyendo entidades, campos, validaciones y relaciones.
+La carpeta **Models** contiene los modelos de la base de datos NoSQL, que definen la estructura de las colecciones dentro de la base de datos. Cada modelo especifica las entidades que componen la colección, los campos que contienen, las validaciones que deben cumplir los datos y las relaciones entre diferentes colecciones. Estos modelos aseguran que los datos sean almacenados de manera consistente y válida, facilitando su gestión y uso en el sistema.
 
 ## Estructura de archivos 
 >Proyecto Integrador Gym(Atencion al Cliente)<br>

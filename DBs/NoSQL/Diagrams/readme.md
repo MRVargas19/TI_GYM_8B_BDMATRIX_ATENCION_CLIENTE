@@ -3,7 +3,7 @@
 ## Diagrams ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Descripción
-La carpeta **Diagrams** almacena diagramas de arquitectura y flujo, que representan visualmente la estructura de la base de datos y los procesos del sistema.
+La carpeta **Diagrams** almacena diagramas de arquitectura y flujo que proporcionan representaciones visuales claras de la estructura de la base de datos y los procesos del sistema. Estos diagramas son útiles para comprender cómo se organiza la información, cómo interactúan los diferentes componentes del sistema y cómo fluyen los datos a través del sistema, facilitando la visualización y el análisis de la arquitectura general.
 
 ## Estructura de archivos 
 >Proyecto Integrador Gym(Atencion al Cliente)<br>

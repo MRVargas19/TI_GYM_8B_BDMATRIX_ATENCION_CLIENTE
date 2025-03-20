@@ -1,9 +1,9 @@
-# TI-Gym-DBMatrix 
-## 📁 Poblate ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-## 📌 Descripción  
-Este directorio (**Poblate**) contiene **scripts de poblamiento** utilizados para **insertar datos de prueba o datos iniciales** en la base de datos del sistema **TI-Hospital-Pozoles**. Los datos de ejemplo son útiles para las pruebas, desarrollo y verificación de la correcta funcionalidad del sistema antes de ser desplegado en un entorno de producción.
 
-## Estructura de archivos 📂
+##  Poblate ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+##  Descripción  
+La carpeta Poblate contiene scripts para insertar datos de prueba o iniciales en la base de datos, útiles para pruebas, desarrollo y verificación antes del despliegue en producción.
+
+## Estructura de archivos 
 >Proyecto Integrador Gym(Atencion al Cliente)<br>
 >|- DBs<br>
 >&nbsp;&nbsp;| - NoSQL<br>
@@ -13,13 +13,13 @@ Este directorio (**Poblate**) contiene **scripts de poblamiento** utilizados par
 >&nbsp;&nbsp; &nbsp;&nbsp;|- Queries<br>
 >&nbsp;&nbsp; &nbsp;&nbsp;|- Schemas<br>
 >&nbsp;&nbsp; &nbsp;&nbsp;|- Scripts <br>
->&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;**|- Poblate 📂**<br>
+>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;**|- Poblate**<br>
 >|- Deliverables<br>
 >|- Docs<br>
 >|- Prototypes<br>
 >|- QA<br>
 
-## 📌 Contenido  
+## Contenido  
 🔹 **Scripts de Poblamiento**  
 Cada archivo en esta carpeta contiene instrucciones para poblar una colección específica de la base de datos, insertando datos de ejemplo que simulan un entorno realista para pruebas y desarrollo.
 

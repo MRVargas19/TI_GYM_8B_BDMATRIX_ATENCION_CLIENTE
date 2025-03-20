@@ -1,10 +1,9 @@
 # TI-Gym-DBMatrix 
-## 📁 Partial (Manual) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-## 📌 Descripción  
-Este directorio (**Partial**) contiene **copias de seguridad parciales** de la base de datos NoSQL, generadas automáticamente en intervalos programados. Estas copias solo incluyen **ciertas colecciones o conjuntos de datos** específicos.
+##  Partial (Manual) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+##  Descripción  
+La carpeta **Partial** contiene copias de seguridad parciales de la base de datos NoSQL, generadas automáticamente en intervalos programados. Estas copias no incluyen toda la base de datos, sino solo ciertas colecciones o conjuntos de datos específicos que han sido seleccionados según la configuración del sistema. Este tipo de respaldo permite optimizar el uso de recursos al respaldar solo la información más relevante o crítica.
 
-
-## Estructura de archivos 📂
+## Estructura de archivos 
 >Proyecto Integrador Gym(Atencion al Cliente)<br>
 >|- DBs<br>
 >&nbsp;&nbsp;| - NoSQL<br>
@@ -12,12 +11,12 @@ Este directorio (**Partial**) contiene **copias de seguridad parciales** de la b
 >&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;|- Automated<br>
 >&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;|- Manual<br>
 >&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;|- Full<br>
->&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;**|- Partial 📂**<br>
+>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;**|- Partial**<br>
 >|- Deliverables<br>
 >|- Docs<br>
 >|- Prototypes<br>
 >|- QA<br>
-## 👥 Equipo de Desarrollo
+##  Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
 |----------|--------|---|-------------|
 |Jaime Vázquez Santiago|[@jaimevs](https://github.com/jaimevs)|Líder de Desarrollo Frontend|...|
