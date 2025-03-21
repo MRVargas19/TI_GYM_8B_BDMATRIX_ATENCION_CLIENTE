@@ -18,8 +18,8 @@ La carpeta **Full** contiene respaldos automáticos completos de la base de dato
 ├── Prototypes
 ├── QA
 ```
-## 👥 **Equipo de Desarrollo**
 
+## 👥 **Equipo de Desarrollo**
 | Integrantes                   | Contacto                                                   | Rol                      | Observaciones |
 | ----------------------------- | ---------------------------------------------------------- | ------------------------ | ------------- |
 | **Jaime Vázquez Santiago**    | [@jaimevs](https://github.com/jaimevs)                     | CEO y Desarrollo Backend | ...           |

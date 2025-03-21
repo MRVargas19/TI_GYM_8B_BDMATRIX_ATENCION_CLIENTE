@@ -1,9 +1,9 @@
-# TI-Gym-DBMatrix 
+# TI-Gym-DBMatrix
 ##  Queries ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-##  Descripción  
+##  Descripción
 La carpeta **Queries** contiene consultas para recuperar, actualizar o eliminar datos en la base de datos NoSQL. Estas consultas están optimizadas para mejorar el rendimiento y cumplir con los requisitos del sistema.
 
-## 📁 **Estructura de Archivos** 
+## 📁 **Estructura de Archivos**
 **Proyecto Integrador Gym (Atención al Cliente)**
 
 ```plaintext
