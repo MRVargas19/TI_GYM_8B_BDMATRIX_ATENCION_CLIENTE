@@ -1,32 +1,39 @@
+## 📂 **Backups** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-##  Backups ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-##  Descripción  
+##  Descripción
 La carpeta **Backups** contiene las copias de seguridad de la base de datos NoSQL, divididas en dos tipos:
 
-Automated: Respaldos generados automáticamente por el sistema.
-Manual: Respaldos hechos manualmente por el equipo de trabajo.
+- **Automated**: Respaldos generados automáticamente por el sistema.
+- **Manual**: Respaldos hechos manualmente por el equipo de trabajo.
 
-## Estructura de archivos 
->Proyecto Integrador Gym(Atencion al Cliente)<br>
->|- DBs<br>
->&nbsp;&nbsp;| - NoSQL<br>
->&nbsp;&nbsp; &nbsp;&nbsp;**|- Backups**<br>
->&nbsp;&nbsp; &nbsp;&nbsp;|- Diagrams<br>
->&nbsp;&nbsp; &nbsp;&nbsp;|- Models<br>
->&nbsp;&nbsp; &nbsp;&nbsp;|- Queries<br>
->&nbsp;&nbsp; &nbsp;&nbsp;|- Schemas<br>
->&nbsp;&nbsp; &nbsp;&nbsp;|- Scripts<br>
->|- Deliverables<br>
->|- Docs<br>
->|- Prototypes<br>
->|- QA<br>
+## 📁 **Estructura de Archivos**
+**Proyecto Integrador Gym (Servicio al Cliente)**
+```plaintext
+├── DBs
+│   ├── NoSQL
+│   │   ├── **Backups**
+│   │   │   ├── Automated
+│   │   │   ├── Manual
+├── Diagrams
+├── Models
+├── Queries
+├── Schemas
+├── Scripts
+├── Deliverables
+├── Docs
+├── Prototypes
+└── QA
+```
 
-## Equipo de Desarrollo
-|Integrante|Contacto|Rol|Observaciones|
-|----------|--------|---|-------------|
-|Jaime Vázquez Santiago|[@jaimevs](https://github.com/jaimevs)|CEO y Desarrollo Backend|...|
-|Ana Karen Crisantos Reyes|[@AnaCrisanto](https://github.com/AnaCrisanto)|Documentador|...|
-|Martin Vargas Gutierrez|[@MRVargas19](https://github.com/MRVargas19)|Documentador|...|
-|Alejandro Gonzales Romero|[@AlejandroRomero17](https://github.com/AlejandroRomero17)|Desarrollador FrontEnd|...|
+## 👥 **Equipo de Desarrollo**
+
+| Integrantes                   | Contacto                                                   | Rol                      | Observaciones |
+| ----------------------------- | ---------------------------------------------------------- | ------------------------ | ------------- |
+| **Jaime Vázquez Santiago**    | [@jaimevs](https://github.com/jaimevs)                     | CEO y Desarrollo Backend | ...           |
+| **Ana Karen Crisantos Reyes** | [@AnaCrisanto](https://github.com/AnaCrisanto)             | Documentador             | ...           |
+| **Martin Vargas Gutierrez**   | [@MRVargas19](https://github.com/MRVargas19)               | Documentador             | ...           |
+| **Alejandro Gonzales Romero** | [@AlejandroRomero17](https://github.com/AlejandroRomero17) | Desarrollador Frontend   | ...           |
+
 
 Creado por: [@MRVargas19](https://github.com/MRVargas19).
+Diseño actualizado por: [@AnaCrisanto](https://github.com/AnaCrisanto).
