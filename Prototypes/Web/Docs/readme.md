@@ -1,31 +1,46 @@
- # Docs
-La carpeta **Docs** contiene todos los documentos relacionados con la documentación del proyecto. Estos documentos proporcionan información clave sobre el diseño, desarrollo y mantenimiento del sistema, y sirven como referencia para el equipo de desarrollo, así como para las partes interesadas. La documentación es esencial para asegurar que el proyecto se mantenga bien estructurado y pueda ser comprendido fácilmente por cualquier miembro del equipo o usuario que necesite consultarlo en el futuro
-# Estructura de Archivos
->Proyecto Integrador Gym(Atencion al Cliente)<br>
->| - DBs<br>
->| - Deliverables<br>
->| - Docs<br>
->| - **Prototypes**<br>
->&nbsp;&nbsp;|- API<br>
->&nbsp;&nbsp;|- Mobile<br>
->&nbsp;&nbsp;|- VoiceSkill<br>
->&nbsp;&nbsp;|- Wearable<br>
->&nbsp;&nbsp;|- **Web**<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- Assets<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- CSS<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- **Docs**<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- HTML<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- JS<br>
->| - QA<br>
+# 📚 **Docs**
+La carpeta **Docs** contiene toda la documentación relevante del proyecto, incluyendo requisitos, especificaciones y detalles clave que guían el desarrollo. Esta carpeta organiza y centraliza la información esencial para el equipo de desarrollo y stakeholders, asegurando que todos los aspectos del proyecto estén claramente documentados y sean fácilmente accesibles.
 
-# Equipo de Desarrollo
-| Integrante                | Contacto                                                   | Rol                             | Observaciones |
-| ------------------------- | ---------------------------------------------------------- | ------------------------------- | ------------- |
-| Jaime Vázquez Santiago    | [@jaimevs](https://github.com/jaimevs)                     | Líder de Desarrollo Frontend    | ...           |
-| Ana Karen Crisantos Reyes | [@AnaCrisanto](https://github.com/AnaCrisanto)             | Desarrollador de Bases de Datos | ...           |
-| Martin Vargas Gutierrez   | [@MRVargas19](https://github.com/MRVargas19)               | Desarrollador FrontEnd          | ...           |
-| Alejandro Gonzales Romero | [@AlejandroRomero17](https://github.com/AlejandroRomero17) | Desarrollador Backend           | ...           |
+---
+
+## 📁 **Estructura de Archivos**
+**Proyecto Integrador Gym (Servicio al Cliente)**
+```plaintext
+├── DBs
+├── Deliverables
+├── Docs
+├── **Prototypes**
+│   ├── API
+│   ├── Mobile
+│   ├── VoiceSkill
+│   ├── Wearable
+│   └── **Web**
+│       ├── Assets
+│       ├── CSS
+│       ├── **Docs**
+│       │   ├── BRs
+│       │   ├── FRs
+│       │   ├── GUI
+│       │   ├── NFRs
+│       │   ├── RFs
+│       │   ├── Support
+│       │   ├── UHs
+│       │   ├── UserRoles
+│       ├── HTML
+│       └── JS
+└── QA
+```
+
+## 👥 **Equipo de Desarrollo**
+
+| Integrantes                   | Contacto                                                   | Rol                             | Observaciones |
+| ----------------------------- | ---------------------------------------------------------- | ------------------------------- | ------------- |
+| **Jaime Vázquez Santiago**    | [@jaimevs](https://github.com/jaimevs)                     | Líder de Desarrollo Frontend    | ...           |
+| **Ana Karen Crisantos Reyes** | [@AnaCrisanto](https://github.com/AnaCrisanto)             | Desarrollador de Bases de Datos | ...           |
+| **Martin Vargas Gutierrez**   | [@MRVargas19](https://github.com/MRVargas19)               | Desarrollador FrontEnd          | ...           |
+| **Alejandro Gonzales Romero** | [@AlejandroRomero17](https://github.com/AlejandroRomero17) | Desarrollador Backend           | ...           |
+
+---
 
 Creado por: [@AnaCrisanto](https://github.com/AnaCrisanto).
-
 

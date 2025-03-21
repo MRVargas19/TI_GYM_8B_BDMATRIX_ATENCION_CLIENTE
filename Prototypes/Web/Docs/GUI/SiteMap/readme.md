@@ -1,1 +1,51 @@
- 
+# 🖧 **SiteMap**
+La carpeta **SiteMap** contiene los diagramas y representaciones visuales de la estructura y jerarquía del sistema. El **SiteMap** ayuda a comprender cómo se organiza la información dentro del sistema, mostrando las conexiones entre las diferentes secciones y páginas. Es esencial para planificar la navegación y la arquitectura del proyecto antes de su implementación.
+
+---
+
+## 📁 **Estructura de Archivos**
+**Proyecto Integrador Gym (Servicio al Cliente)**
+```plaintext
+├── DBs
+├── Deliverables
+├── Docs
+├── **Prototypes**
+│   ├── API
+│   ├── Mobile
+│   ├── VoiceSkill
+│   ├── Wearable
+│   └── **Web**
+│       ├── Assets
+│       ├── CSS
+│       ├── **Docs**
+│       │   ├── BRs
+│       │   ├── FRs
+│       │   ├── **GUI**
+│       │   │   ├── Mockups
+│       │   │   ├── Navegational_Prototype
+│       │   │   ├── **SiteMap**
+│       │   │   ├── Sketches
+│       │   │   ├── Wireframes
+│       │   ├── NFRs
+│       │   ├── RFs
+│       │   ├── Support
+│       │   ├── UHs
+│       │   ├── UserRoles
+│       ├── HTML
+│       └── JS
+└── QA
+```
+
+## 👥 **Equipo de Desarrollo**
+
+| Integrantes                   | Contacto                                                   | Rol                             | Observaciones |
+| ----------------------------- | ---------------------------------------------------------- | ------------------------------- | ------------- |
+| **Jaime Vázquez Santiago**    | [@jaimevs](https://github.com/jaimevs)                     | Líder de Desarrollo Frontend    | ...           |
+| **Ana Karen Crisantos Reyes** | [@AnaCrisanto](https://github.com/AnaCrisanto)             | Desarrollador de Bases de Datos | ...           |
+| **Martin Vargas Gutierrez**   | [@MRVargas19](https://github.com/MRVargas19)               | Desarrollador FrontEnd          | ...           |
+| **Alejandro Gonzales Romero** | [@AlejandroRomero17](https://github.com/AlejandroRomero17) | Desarrollador Backend           | ...           |
+
+---
+
+Creado por: [@AnaCrisanto](https://github.com/AnaCrisanto).
+
