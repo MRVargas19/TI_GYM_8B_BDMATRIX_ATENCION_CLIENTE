@@ -3,21 +3,24 @@
 La carpeta **Backups** dentro de SQL/ almacena copias de seguridad de las bases de datos SQL. Estas copias permiten recuperar la información si ocurre algún fallo, pérdida de datos o durante migraciones.
 
 # Estructura de Archivos
->Proyecto Integrador Gym(Atencion al Cliente)<br>
->&nbsp;&nbsp;|- DBs.<br>
->&nbsp;&nbsp;&nbsp;|- SQL.<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- **Backups.**<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- DataDictionary.<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- Diagrams.<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- Events.<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- Queries.<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- Scripts.<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- Triggers.<br>
->&nbsp;&nbsp;&nbsp;|- NoSQL.<br>
->&nbsp;&nbsp;|- Deliverables.<br>
->&nbsp;&nbsp;|- Docs.<br>
->&nbsp;&nbsp;|- Prototype.<br>
->&nbsp;&nbsp;|- QA.<br>
+**Proyecto Integrador Gym (Atención al Cliente)**
+
+```plaintext
+├── DBs
+│   ├── SQL
+│   │   ├── **Backups**
+│   │   ├── DataDictionary
+│   │   ├── Diagrams
+│   │   ├── Events
+│   │   ├── Queries
+│   │   ├── Scripts
+│   │   └── Triggers
+│   └── NoSQL
+├── Deliverables
+├── Docs
+├── Prototype
+└── QA
+```
 
 # Equipo de Desarrollo
 

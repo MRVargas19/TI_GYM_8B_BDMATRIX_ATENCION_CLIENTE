@@ -3,23 +3,26 @@
 La carpeta **Manual** dentro de SQL/Backups/ contiene las copias de seguridad hechas manualmente por un usuario, en lugar de copias automáticas del sistema. Esto permite guardar respaldos específicos cuando el usuario lo decida.
 
 # Estructura de Archivos
->Proyecto Integrador Gym(Atencion al Cliente)<br>
->&nbsp;|- DBs.<br>
->&nbsp;&nbsp;|- SQL.<br>
->&nbsp;&nbsp;&nbsp;|- Backups.<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- Automated.<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- **Manual.**<br>
->&nbsp;&nbsp;&nbsp;|- DataDictionary.<br>
->&nbsp;&nbsp;&nbsp;|- Diagrams.<br>
->&nbsp;&nbsp;&nbsp;|- Events.<br>
->&nbsp;&nbsp;&nbsp;|- Queries.<br>
->&nbsp;&nbsp;&nbsp;|- Scripts.<br>
->&nbsp;&nbsp;&nbsp;|- Triggers.<br>
->&nbsp;&nbsp;|- NoSQL.<br>
->&nbsp;|- Deliverables.<br>
->&nbsp;|- Docs.<br>
->&nbsp;|- Prototype.<br>
->&nbsp;|- QA.<br>
+**Proyecto Integrador Gym (Atención al Cliente)**
+
+```plaintext
+├── DBs
+│   ├── SQL
+│   │   ├── Backups
+│   │   │   ├── Automated
+│   │   └── **Manual**
+│   │   ├── DataDictionary
+│   │   ├── Diagrams
+│   │   ├── Events
+│   │   ├── Queries
+│   │   ├── Scripts
+│   │   └── Triggers
+│   └── NoSQL
+├── Deliverables
+├── Docs
+├── Prototype
+└── QA
+
 
 
 # Equipo de Desarrollo

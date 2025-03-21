@@ -1,25 +1,28 @@
 # Partial
 La carpeta **Partial**  contiene respaldos hechos manualmente por el usuario, seleccionando solo partes específicas de la base de datos para respaldar. Es muy útil cuando la base de datos es grande y hacer un backup completo (FULL) tomaría mucho tiempo y espacio.
 # Estructura de Archivos
->Proyecto Integrador Gym(Atencion al Cliente)<br>
->&nbsp;|- DBs.<br>
->&nbsp;&nbsp;|- SQL.<br>
->&nbsp;&nbsp;&nbsp;|- Backups.<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- Automated.<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- Manual.<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- Full.<br>
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- **Partial**.<br>
->&nbsp;&nbsp;&nbsp;|- DataDictionary.<br>
->&nbsp;&nbsp;&nbsp;|- Diagrams.<br>
->&nbsp;&nbsp;&nbsp;|- Events.<br>
->&nbsp;&nbsp;&nbsp;|- Queries.<br>
->&nbsp;&nbsp;&nbsp;|- Scripts.<br>
->&nbsp;&nbsp;&nbsp;|- Triggers.<br>
->&nbsp;&nbsp;|- NoSQL.<br>
->&nbsp;|- Deliverables.<br>
->&nbsp;|- Docs.<br>
->&nbsp;|- Prototype.<br>
->&nbsp;|- QA.<br>
+**Proyecto Integrador Gym (Atención al Cliente)**
+
+```plaintext
+├── DBs
+│   ├── SQL
+│   │   ├── Backups
+│   │   │   ├── Automated
+│   │   │   ├── Manual
+│   │   │   ├── Full
+│   │   │   └── **Partial**
+│   │   ├── DataDictionary
+│   │   ├── Diagrams
+│   │   ├── Events
+│   │   ├── Queries
+│   │   ├── Scripts
+│   │   └── Triggers
+│   └── NoSQL
+├── Deliverables
+├── Docs
+├── Prototype
+└── QA
+
 
 
 # Equipo de Desarrollo
