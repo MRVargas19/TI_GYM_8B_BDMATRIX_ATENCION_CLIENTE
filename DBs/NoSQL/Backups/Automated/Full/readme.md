@@ -3,7 +3,6 @@
 ##  Descripción
 La carpeta **Full** contiene respaldos automáticos completos de la base de datos NoSQL. Estas copias incluyen todas las colecciones y datos, y se generan regularmente según un horario establecido.
 
-
 ## 📁 **Estructura de Archivos**
 **Proyecto Integrador Gym (Servicio al Cliente)**
 ```plaintext

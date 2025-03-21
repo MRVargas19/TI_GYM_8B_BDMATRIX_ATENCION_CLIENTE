@@ -3,20 +3,23 @@
 ##  Descripción  
 La carpeta **Models** contiene los modelos de la base de datos NoSQL, que definen la estructura de las colecciones dentro de la base de datos. Cada modelo especifica las entidades que componen la colección, los campos que contienen, las validaciones que deben cumplir los datos y las relaciones entre diferentes colecciones. Estos modelos aseguran que los datos sean almacenados de manera consistente y válida, facilitando su gestión y uso en el sistema.
 
-## Estructura de archivos 
->Proyecto Integrador Gym(Atencion al Cliente)<br>
->|- DBs<br>
->&nbsp;&nbsp;| - NoSQL<br>
->&nbsp;&nbsp; &nbsp;&nbsp;|- Backups<br>
->&nbsp;&nbsp; &nbsp;&nbsp;|- Diagrams<br>
->&nbsp;&nbsp; &nbsp;&nbsp;**|- Models**<br>
->&nbsp;&nbsp; &nbsp;&nbsp;|- Queries<br>
->&nbsp;&nbsp; &nbsp;&nbsp;|- Schemas<br>
->&nbsp;&nbsp; &nbsp;&nbsp;|- Scripts<br>
->|- Deliverables<br>
->|- Docs<br>
->|- Prototypes<br>
->|- QA<br>
+## 📁 **Estructura de Archivos** 
+**Proyecto Integrador Gym (Atención al Cliente)**
+
+```plaintext
+├── DBs
+│   └── NoSQL
+│       ├── Backups
+│       ├── Diagrams
+│       ├── **Models**
+│       ├── Queries
+│       ├── Schemas
+│       └── Scripts
+├── Deliverables
+├── Docs
+├── Prototypes
+├── QA
+```
 
 ## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
