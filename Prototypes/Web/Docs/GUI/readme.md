@@ -1,4 +1,4 @@
- # Docs
+ # GUI
 La carpeta **GUI** contiene todos los documentos relacionados con el diseño y la especificación de la interfaz gráfica de usuario del proyecto. Estos documentos son cruciales para garantizar que el sistema sea fácil de usar y ofrezca una experiencia de usuario consistente y eficiente. La carpeta incluye detalles sobre la disposición de los elementos de la interfaz, interacciones, estilos visuales, y cualquier otro aspecto relacionado con la presentación y la usabilidad del sistema.
 # Estructura de Archivos
 >Proyecto Integrador Gym(Atencion al Cliente)<br>
@@ -14,14 +14,14 @@ La carpeta **GUI** contiene todos los documentos relacionados con el diseño y l
 >&nbsp;&nbsp;&nbsp;&nbsp;|- Assets<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;|- CSS<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;|- **Docs**<br>
-    >&nbsp;&nbsp;&nbsp;&nbsp;|- BRs<br>
-    >&nbsp;&nbsp;&nbsp;&nbsp;|- FRs<br>
-    >&nbsp;&nbsp;&nbsp;&nbsp;|- **GUI**<br>
-    >&nbsp;&nbsp;&nbsp;&nbsp;|- NFRs<br>
-    >&nbsp;&nbsp;&nbsp;&nbsp;|- RFs<br>
-    >&nbsp;&nbsp;&nbsp;&nbsp;|- Support<br>
-    >&nbsp;&nbsp;&nbsp;&nbsp;|- Support<br>
-    >&nbsp;&nbsp;&nbsp;&nbsp;|- UserRoles<br>
+  >&nbsp;&nbsp;&nbsp;&nbsp;|- BRs<br>
+  >&nbsp;&nbsp;&nbsp;&nbsp;|- FRs<br>
+  >&nbsp;&nbsp;&nbsp;&nbsp;|- **GUI**<br>
+  >&nbsp;&nbsp;&nbsp;&nbsp;|- NFRs<br>
+  >&nbsp;&nbsp;&nbsp;&nbsp;|- RFs<br>
+  >&nbsp;&nbsp;&nbsp;&nbsp;|- Support<br>
+  >&nbsp;&nbsp;&nbsp;&nbsp;|- Support<br>
+  >&nbsp;&nbsp;&nbsp;&nbsp;|- UserRoles<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;|- HTML<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;|- JS<br>
 >| - QA<br>
