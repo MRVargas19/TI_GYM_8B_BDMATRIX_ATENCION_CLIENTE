@@ -5,12 +5,15 @@
 
 ## Estructura de Archivos
 
->Proyecto Integrador Gym(Atencion al Cliente)<br>
->| - DBs <br>
->| - Deliverables<br>
->| - Docs<br>
->| - Prototypes<br>
->| - **QA** <br>
+**Proyecto Integrador Gym (Atención al Cliente)**
+
+```plaintext
+├── DBs
+├── Deliverables
+├── Docs
+├── Prototypes
+└── **QA**
+```
 
 
 ## Equipo de Desarrollo

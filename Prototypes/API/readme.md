@@ -1,17 +1,20 @@
   # API
 La carpeta **API** contiene los archivos relacionados con la Interfaz de Programación de Aplicaciones (API) del sistema. Esto incluye documentación, especificaciones de endpoints, ejemplos de uso y archivos de configuración necesarios para interactuar con la API del proyecto, permitiendo que otras aplicaciones o servicios puedan comunicarse con el sistema de manera efectiva.
 # Estructura de Archivos
->Proyecto Integrador Gym(Atencion al Cliente)<br>
->|- DBs.<br>
->|- Deliverables.<br>
->|- Docs.<br>
->|- Prototype.<br>
->&nbsp;**|- API.**<br>
->&nbsp;|- Mobile.<br>
->&nbsp;|- VoiceSkill.<br>
->&nbsp;|- Wearable.<br>
->&nbsp;|- Web.<br>
->|- QA.<br>
+**Proyecto Integrador Gym (Atención al Cliente)**
+
+```plaintext
+├── DBs
+├── Deliverables
+├── Docs
+├── Prototype
+│   ├── **API**
+│   ├── Mobile
+│   ├── VoiceSkill
+│   ├── Wearable
+│   └── Web
+└── QA
+```
 
 # Equipo de Desarrollo
 

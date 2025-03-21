@@ -1,17 +1,20 @@
    # Mobile
 La carpeta **Mobile** contiene archivos relacionados con el desarrollo de la aplicación móvil del sistema. Esto puede incluir código fuente, interfaces de usuario, configuraciones y documentación específica para la versión móvil del proyecto, asegurando que el sistema funcione correctamente en dispositivos móviles.
 # Estructura de Archivos
->Proyecto Integrador Gym(Atencion al Cliente)<br>
->|- DBs.<br>
->|- Deliverables.<br>
->|- Docs.<br>
->|- Prototype.<br>
->&nbsp;|- API.<br>
->&nbsp;**|- Mobile.**<br>
->&nbsp;|- VoiceSkill.<br>
->&nbsp;|- Wearable.<br>
->&nbsp;|- Web.<br>
->|- QA.<br>
+**Proyecto Integrador Gym (Atención al Cliente)**
+
+```plaintext
+├── DBs
+├── Deliverables
+├── Docs
+├── Prototype
+│   ├── API
+│   ├── **Mobile**
+│   ├── VoiceSkill
+│   ├── Wearable
+│   └── Web
+└── QA
+```
 
 # Equipo de Desarrollo
 
