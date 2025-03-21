@@ -14,14 +14,14 @@ La carpeta **Mockups** contiene los diseños visuales preliminares del sistema, 
 >&nbsp;&nbsp;&nbsp;&nbsp;|- Assets<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;|- CSS<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;|- **Docs**<br>
-  >&nbsp;&nbsp;&nbsp;&nbsp;|- BRs<br>
-  >&nbsp;&nbsp;&nbsp;&nbsp;|- FRs<br>
-  >&nbsp;&nbsp;&nbsp;&nbsp;|- **GUI**<br>
-    >&nbsp;&nbsp;&nbsp;&nbsp;|- **Mockups**<br>
-    >&nbsp;&nbsp;&nbsp;&nbsp;|- Navegational_Prototype<br>
-    >&nbsp;&nbsp;&nbsp;&nbsp;|- SiteMap<br>
-    >&nbsp;&nbsp;&nbsp;&nbsp;|- Sketches<br>
-    >&nbsp;&nbsp;&nbsp;&nbsp;|- Wireframes<br>
+    >&nbsp;&nbsp;&nbsp;&nbsp;|- BRs<br>
+    >&nbsp;&nbsp;&nbsp;&nbsp;|- FRs<br>
+    >&nbsp;&nbsp;&nbsp;&nbsp;|- **GUI**<br>
+      >&nbsp;&nbsp;&nbsp;&nbsp;|- **Mockups**<br>
+      >&nbsp;&nbsp;&nbsp;&nbsp;|- Navegational_Prototype<br>
+      >&nbsp;&nbsp;&nbsp;&nbsp;|- SiteMap<br>
+      >&nbsp;&nbsp;&nbsp;&nbsp;|- Sketches<br>
+      >&nbsp;&nbsp;&nbsp;&nbsp;|- Wireframes<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;|- HTML<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;|- JS<br>
 >| - QA<br>
