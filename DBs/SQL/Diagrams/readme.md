@@ -24,10 +24,10 @@ La carpeta **Diagrams** almacena diagramas que muestran la estructura y el dise�
 
 |Integrante|Contacto|Rol|Observaciones|
 |----------|--------|---|-------------|
-|Jaime Vázquez Santiago|[@jaimevs](https://github.com/jaimevs)|Líder de Desarrollo Frontend|...|
-|Ana Karen Crisantos Reyes|[@AnaCrisanto](https://github.com/AnaCrisanto)|Desarrollador de Bases de Datos|...|
-|Martin Vargas Gutierrez|[@MRVargas19](https://github.com/MRVargas19)|Desarrollador FrontEnd|...|
-|Alejandro Gonzales Romero|[@AlejandroRomero17](https://github.com/AlejandroRomero17)|Desarrollador Backend|...|
+|Jaime Vázquez Santiago|[@jaimevs](https://github.com/jaimevs)|CEO y Desarrollo Backend|...|
+|Ana Karen Crisantos Reyes|[@AnaCrisanto](https://github.com/AnaCrisanto)|Documentador|...|
+|Martin Vargas Gutierrez|[@MRVargas19](https://github.com/MRVargas19)|Documentador|...|
+|Alejandro Gonzales Romero|[@AlejandroRomero17](https://github.com/AlejandroRomero17)|Desarrollador FrontEnd|...|
 
 Creado por: [@MRVargas19](https://github.com/MRVargas19).
 
