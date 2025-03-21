@@ -3,18 +3,20 @@
 ##  Descripción  
 Este directorio (**Manual**) contiene **copias de seguridad realizadas manualmente** de la base de datos NoSQL. Estas copias pueden ser **completas o parciales**, según las necesidades del equipo.
 
-## Estructura de archivos 
->Proyecto Integrador Gym(Atencion al Cliente)<br>
->|- DBs<br>
->&nbsp;&nbsp;| - NoSQL<br>
->&nbsp;&nbsp; &nbsp;&nbsp;|- Backups<br>
->&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;**|- Manual**<br>
->&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;|- Automated <br>
->|- Deliverables<br>
->|- Docs<br>
->|- Prototypes<br>
->|- QA<br>
+## 📁 **Estructura de Archivos** 
+**Proyecto Integrador Gym (Atención al Cliente)**
 
+```plaintext
+├── DBs
+│   └── NoSQL
+│       ├── Backups
+│       │   ├── **Manual**
+│       │   └── Automated
+├── Deliverables
+├── Docs
+├── Prototypes
+├── QA
+```
 ##  Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
 |----------|--------|---|-------------|

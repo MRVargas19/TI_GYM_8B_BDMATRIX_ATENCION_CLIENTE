@@ -3,19 +3,23 @@
 ## Descripción 
 La carpeta Full contiene respaldos automáticos completos de la base de datos NoSQL. Estas copias incluyen todas las colecciones y datos, y se generan regularmente según un horario establecido.
 
-## Estructura de archivos 
->Proyecto Integrador Gym(Atencion al Cliente)<br>
->|- DBs<br>
->&nbsp;&nbsp;| - NoSQL<br>
->&nbsp;&nbsp; &nbsp;&nbsp;|- Backups<br>
->&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;|- Automated<br>
->&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;**|- Full**<br>
->&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;|- Partial<br>
->&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;|- Manual<br>
->|- Deliverables<br>
->|- Docs<br>
->|- Prototypes<br>
->|- QA<br>
+## 📁 **Estructura de Archivos** 
+**Proyecto Integrador Gym (Atención al Cliente)**
+
+```plaintext
+├── DBs
+│   └── NoSQL
+│       ├── Backups
+│       │   ├── Automated
+│       │   ├── Full
+│       │   ├── **Partial**
+│       │   └── Manual
+├── Deliverables
+├── Docs
+├── Prototypes
+├── QA
+```
+
 ## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
 |----------|--------|---|-------------|

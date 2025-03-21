@@ -3,18 +3,20 @@
 ##  Descripción  
 La carpeta **Automated** almacena copias de seguridad automáticas de la base de datos NoSQL, las cuales se generan de manera programada en intervalos predefinidos. Estas copias pueden ser completas, es decir, incluir toda la base de datos, o parciales, donde solo se respaldan datos o colecciones específicas, dependiendo de la configuración definida en el sistema. Este proceso asegura que los datos estén protegidos regularmente sin necesidad de intervención manual.
 
-## Estructura de archivos 
->Proyecto Integrador Gym(Atencion al Cliente)<br>
->|- DBs<br>
->&nbsp;&nbsp;| - NoSQL<br>
->&nbsp;&nbsp; &nbsp;&nbsp;|- Backups<br>
->&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;**|- Automated**<br>
->&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;|- Manual<br>
->|- Deliverables<br>
->|- Docs<br>
->|- Prototypes<br>
->|- QA<br>
+## 📁 **Estructura de Archivos** 
+**Proyecto Integrador Gym (Atención al Cliente)**
 
+```plaintext
+├── DBs
+│   └── NoSQL
+│       ├── Backups
+│       │   ├── **Automated**
+│       │   └── Manual
+├── Deliverables
+├── Docs
+├── Prototypes
+├── QA
+```
 ## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
 |----------|--------|---|-------------|

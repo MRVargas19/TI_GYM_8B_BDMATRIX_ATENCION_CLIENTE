@@ -5,20 +5,23 @@
 ## Descripción
 La carpeta **Diagrams** almacena diagramas de arquitectura y flujo que proporcionan representaciones visuales claras de la estructura de la base de datos y los procesos del sistema. Estos diagramas son útiles para comprender cómo se organiza la información, cómo interactúan los diferentes componentes del sistema y cómo fluyen los datos a través del sistema, facilitando la visualización y el análisis de la arquitectura general.
 
-## Estructura de archivos 
->Proyecto Integrador Gym(Atencion al Cliente)<br>
->|- DBs<br>
->&nbsp;&nbsp;| - NoSQL<br>
->&nbsp;&nbsp; &nbsp;&nbsp;|- Backups<br>
->&nbsp;&nbsp; &nbsp;&nbsp;**|- Diagrams**<br>
->&nbsp;&nbsp; &nbsp;&nbsp;|- Models<br>
->&nbsp;&nbsp; &nbsp;&nbsp;|- Queries<br>
->&nbsp;&nbsp; &nbsp;&nbsp;|- Schemas<br>
->&nbsp;&nbsp; &nbsp;&nbsp;|- Scripts<br>
->|- Deliverables<br>
->|- Docs<br>
->|- Prototypes<br>
->|- QA<br>
+## 📁 **Estructura de Archivos** 
+**Proyecto Integrador Gym (Atención al Cliente)**
+
+```plaintext
+├── DBs
+│   └── NoSQL
+│       ├── **Diagrams**
+│       ├── Backups
+│       ├── Models
+│       ├── Queries
+│       ├── Schemas
+│       └── Scripts
+├── Deliverables
+├── Docs
+├── Prototypes
+├── QA
+```
 
 ## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|

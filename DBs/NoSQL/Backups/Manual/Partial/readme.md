@@ -3,19 +3,23 @@
 ##  Descripción  
 La carpeta **Partial** contiene copias de seguridad parciales de la base de datos NoSQL, generadas automáticamente en intervalos programados. Estas copias no incluyen toda la base de datos, sino solo ciertas colecciones o conjuntos de datos específicos que han sido seleccionados según la configuración del sistema. Este tipo de respaldo permite optimizar el uso de recursos al respaldar solo la información más relevante o crítica.
 
-## Estructura de archivos 
->Proyecto Integrador Gym(Atencion al Cliente)<br>
->|- DBs<br>
->&nbsp;&nbsp;| - NoSQL<br>
->&nbsp;&nbsp; &nbsp;&nbsp;|- Backups<br>
->&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;|- Automated<br>
->&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;|- Manual<br>
->&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;|- Full<br>
->&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;**|- Partial**<br>
->|- Deliverables<br>
->|- Docs<br>
->|- Prototypes<br>
->|- QA<br>
+## 📁 **Estructura de Archivos** 
+**Proyecto Integrador Gym (Atención al Cliente)**
+
+```plaintext
+├── DBs
+│   └── NoSQL
+│       ├── Backups
+│       │   ├── Automated
+│       │   ├── Manual
+│       │   ├── Full
+│       │   └── **Partial**
+├── Deliverables
+├── Docs
+├── Prototypes
+├── QA
+```
+
 ##  Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
 |----------|--------|---|-------------|
