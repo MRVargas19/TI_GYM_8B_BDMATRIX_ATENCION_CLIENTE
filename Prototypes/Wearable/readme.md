@@ -2,17 +2,20 @@
 La carpeta **Wearable** contiene archivos relacionados con el desarrollo de la aplicación para dispositivos portátiles o wearables. Esto puede incluir código fuente, interfaces, configuraciones y documentación necesaria para que el sistema se integre y funcione correctamente en dispositivos como relojes inteligentes, pulseras o cualquier otro dispositivo wearable.
 
 # Estructura de Archivos
->Proyecto Integrador Gym(Atencion al Cliente)<br>
->|- DBs.<br>
->|- Deliverables.<br>
->|- Docs.<br>
->|- Prototype.<br>
->&nbsp;|- API.<br>
->&nbsp;|- Mobile.<br>
->&nbsp;|- VoiceSkill.<br>
->&nbsp;**|- Wearable.**<br>
->&nbsp;|- Web.<br>
->|- QA.<br>
+**Proyecto Integrador Gym (Atención al Cliente)**
+
+```plaintext
+├── DBs
+├── Deliverables
+├── Docs
+├── Prototype
+│   ├── API
+│   ├── Mobile
+│   ├── VoiceSkill
+│   ├── **Wearable**
+│   └── Web
+└── QA
+```
 
 # Equipo de Desarrollo
 

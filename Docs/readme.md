@@ -2,12 +2,15 @@
  # Docs
 La carpeta **Docs** almacena toda la documentación relacionada con el proyecto. Esto puede incluir manuales, guías de usuario, especificaciones técnicas, documentación de diseño, y cualquier otro archivo informativo necesario para comprender, utilizar o mantener el sistema.
 # Estructura de Archivos
->Proyecto Integrador Gym(Atencion al Cliente)<br>
->|- DBs.<br>
->|- Deliverables.<br>
->**|- Docs.**<br>
->|- Prototype.<br>
->|- QA.<br>
+**Proyecto Integrador Gym (Atención al Cliente)**
+
+```plaintext
+├── DBs
+├── Deliverables
+├── **Docs**
+├── Prototype
+└── QA
+```
 
 # Equipo de Desarrollo
 

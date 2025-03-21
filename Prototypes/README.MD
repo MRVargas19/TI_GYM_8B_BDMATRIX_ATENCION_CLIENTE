@@ -2,19 +2,22 @@
 # Prototypes ![Prototypes](https://img.shields.io/badge/CSS-blue?logo=css3)
 La carpeta **Prototypes** contiene todos los elementos relacionados con el Frontend del proyecto. Aquí se almacenan prototipos, diseños visuales, interfaces gráficas y cualquier otro recurso que permita visualizar claramente cómo será la apariencia final del sistema.
 
-## Estructura de archivos
+## Estructura de Archivos
 
->Proyecto Integrador Gym(Atencion al Cliente)<br>
->| - DBs<br>
->| - Deliverables<br>
->| - Docs<br>
->| - **Prototypes**<br>
->&nbsp;&nbsp;|- API<br>
->&nbsp;&nbsp;|- Mobile<br>
->&nbsp;&nbsp;|- VoiceSkill<br>
->&nbsp;&nbsp;|- Wearable<br>
->&nbsp;&nbsp;|- Web<br>
->| - QA<br>
+**Proyecto Integrador Gym (Atención al Cliente)**
+
+```plaintext
+├── DBs
+├── Deliverables
+├── Docs
+├── **Prototypes**
+│   ├── API
+│   ├── Mobile
+│   ├── VoiceSkill
+│   ├── Wearable
+│   └── Web
+└── QA
+```
 
 ## Equipo de Desarrollo
 
