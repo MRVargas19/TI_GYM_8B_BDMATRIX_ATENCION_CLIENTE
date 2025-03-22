@@ -7,7 +7,7 @@ La carpeta **DataDictionary** contiene documentos que describen claramente la es
 
 ```plaintext
 ├── DBs
-│   ├── SQL
+│   ├── **SQL**
 │   │   ├── Backups
 │   │   ├── **DataDictionary**
 │   │   ├── Diagrams

@@ -1,24 +1,30 @@
- 
-  # Diagrams
+#  **Diagrams** ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 
 La carpeta **Diagrams** almacena diagramas que muestran la estructura y el diseño de la base de datos, ayudando a visualizar fácilmente las tablas, sus atributos y cómo se relacionan entre sí.
 
-# Estructura de Archivos
-&nbsp;>Proyecto Integrador Gym(Atencion al Cliente)<br>
-&nbsp;&nbsp;|- DBs.<br>
-&nbsp;&nbsp;&nbsp;|- SQL.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|- Backups.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|- DataDictionary.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|- **Diagrams**.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|- Events.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|- Queries.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|- Scripts.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|- Triggers.<br>
-&nbsp;&nbsp;&nbsp;|- NoSQL.<br>
-&nbsp;&nbsp;|- Deliverables.<br>
-&nbsp;&nbsp;|- Docs.<br>
-&nbsp;&nbsp;|- Prototype.<br>
-&nbsp;&nbsp;|- QA.<br>
+
+## 📁 **Estructura de Archivos**
+**Proyecto Integrador Gym (Servicio al Cliente)**
+
+```plaintext
+├── DBs
+│   ├── **SQL**
+│   │   ├── Backups
+│   │   ├── DataDictionary
+│   │   ├── **Diagrams**
+│   │   │   ├── MER
+│   │   │   ├── MERE
+│   │   │   └── MR
+│   │   ├── Events
+│   │   ├── Queries
+│   │   ├── Scripts
+│   │   └── Triggers
+│   └── NoSQL
+├── Deliverables
+├── Docs
+├── Prototype
+└── QA
+```
 
 # Equipo de Desarrollo
 

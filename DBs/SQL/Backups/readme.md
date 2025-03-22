@@ -7,7 +7,7 @@ La carpeta **Backups** dentro de SQL/ almacena copias de seguridad de las bases 
 
 ```plaintext
 ├── DBs
-│   ├── SQL
+│   ├── **SQL**
 │   │   ├── **Backups**
 │   │   ├── DataDictionary
 │   │   ├── Diagrams
