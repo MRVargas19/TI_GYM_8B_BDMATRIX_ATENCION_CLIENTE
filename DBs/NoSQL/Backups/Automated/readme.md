@@ -1,4 +1,4 @@
-# 📂 **Automated** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# **Automated** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ##  Descripción
 La carpeta **Automated** almacena copias de seguridad automáticas de la base de datos NoSQL, las cuales se generan de manera programada en intervalos predefinidos. Estas copias pueden ser completas, es decir, incluir toda la base de datos, o parciales, donde solo se respaldan datos o colecciones específicas, dependiendo de la configuración definida en el sistema. Este proceso asegura que los datos estén protegidos regularmente sin necesidad de intervención manual.

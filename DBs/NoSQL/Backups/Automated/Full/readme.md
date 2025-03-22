@@ -1,4 +1,4 @@
-# 📂 **Full (Automated)** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# **Full (Automated)** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ##  Descripción
 La carpeta **Full** contiene respaldos automáticos completos de la base de datos NoSQL. Estas copias incluyen todas las colecciones y datos, y se generan regularmente según un horario establecido.

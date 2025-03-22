@@ -1,4 +1,4 @@
-## 📂 **Backups** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## **Backups** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ##  Descripción
 La carpeta **Backups** contiene las copias de seguridad de la base de datos NoSQL, divididas en dos tipos:
