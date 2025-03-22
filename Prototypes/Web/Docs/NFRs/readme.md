@@ -1,7 +1,7 @@
-# 📌 **NFRs**
+#  **NFRs** 📌
+##  Descripción
 La carpeta **NFRs** (Non-Functional Requirements) contiene todos los requisitos no funcionales del proyecto. Estos requisitos describen los atributos de calidad del sistema, como el rendimiento, la seguridad, la escalabilidad y la usabilidad. Son esenciales para garantizar que el sistema funcione correctamente bajo diversas condiciones y cumpla con los estándares esperados.
 
----
 
 ## 📁 **Estructura de Archivos**
 **Proyecto Integrador Gym (Servicio al Cliente)**

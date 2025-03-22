@@ -1,7 +1,7 @@
-# 📄 **RFs**
+#  **RFs**📄
+##  Descripción
 La carpeta **RFs** (Requisitos Funcionales) contiene todos los requisitos funcionales del proyecto. Estos requisitos especifican las funciones y comportamientos que el sistema debe realizar. Los **RFs** son fundamentales para garantizar que el sistema cumpla con las expectativas del cliente y las necesidades del usuario final.
 
----
 
 ## 📁 **Estructura de Archivos**
 **Proyecto Integrador Gym (Servicio al Cliente)**
@@ -41,7 +41,6 @@ La carpeta **RFs** (Requisitos Funcionales) contiene todos los requisitos funcio
 | **Alejandro Gonzales Romero** | [@AlejandroRomero17](https://github.com/AlejandroRomero17) | Desarrollador FrontEnd           | ...           |
 
 
----
 
 Creado por: [@MRVargas19](https://github.com/MRVargas19).
 Modificado por: [@AnaCrisanto](https://github.com/AnaCrisanto).

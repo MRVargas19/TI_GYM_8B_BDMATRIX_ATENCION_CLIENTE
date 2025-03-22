@@ -1,7 +1,8 @@
-# 📘 **FRs**
+#  **FRs** 📘
+
+##  Descripción
 La carpeta **FRs** (Functional Requirements) contiene todos los requisitos funcionales detallados del proyecto. Estos requisitos describen las funcionalidades específicas que el sistema debe ofrecer para cumplir con las necesidades y expectativas del usuario final y el cliente. Los **FRs** son esenciales para guiar el desarrollo de las funcionalidades del sistema de manera que se alineen con los objetivos del negocio.
 
----
 
 ## 📁 **Estructura de Archivos**
 **Proyecto Integrador Gym (Servicio al Cliente)**
@@ -40,8 +41,6 @@ La carpeta **FRs** (Functional Requirements) contiene todos los requisitos funci
 | **Martin Vargas Gutierrez**   | [@MRVargas19](https://github.com/MRVargas19)               | Documentador                    | ...           |
 | **Alejandro Gonzales Romero** | [@AlejandroRomero17](https://github.com/AlejandroRomero17) | Desarrollador FrontEnd           | ...           |
 
-
----
 
 Creado por: [@AnaCrisanto](https://github.com/AnaCrisanto).
 

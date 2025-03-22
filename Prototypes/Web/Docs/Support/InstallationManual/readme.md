@@ -1,7 +1,7 @@
-# 📝 **InstallationManual**
-La carpeta **InstallationManual** contiene todos los documentos necesarios para la instalación del sistema. Estos archivos proporcionan instrucciones detalladas sobre cómo configurar y poner en marcha el sistema en diferentes entornos. La correcta instalación del sistema es esencial para garantizar su funcionamiento adecuado y su integración sin problemas en los entornos de producción.
+#  **InstallationManual** 📝
 
----
+##  Descripción
+La carpeta **InstallationManual** contiene todos los documentos necesarios para la instalación del sistema. Estos archivos proporcionan instrucciones detalladas sobre cómo configurar y poner en marcha el sistema en diferentes entornos. La correcta instalación del sistema es esencial para garantizar su funcionamiento adecuado y su integración sin problemas en los entornos de producción.
 
 ## 📁 **Estructura de Archivos**
 **Proyecto Integrador Gym (Servicio al Cliente)**
@@ -43,7 +43,6 @@ La carpeta **InstallationManual** contiene todos los documentos necesarios para 
 | **Alejandro Gonzales Romero** | [@AlejandroRomero17](https://github.com/AlejandroRomero17) | Desarrollador FrontEnd           | ...           |
 
 
----
 
 Creado por: [@MRVargas19](https://github.com/MRVargas19).
 Modificado por: [@AnaCrisanto](https://github.com/AnaCrisanto).

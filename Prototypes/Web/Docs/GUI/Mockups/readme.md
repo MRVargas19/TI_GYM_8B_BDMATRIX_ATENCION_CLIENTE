@@ -1,7 +1,6 @@
-# 🖼️ **Mockups**
+#  **Mockups** ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+##  Descripción
 La carpeta **Mockups** contiene los diseños visuales preliminares del sistema, representando la interfaz de usuario (UI) en forma de imágenes o prototipos estáticos. Los **mockups** sirven para mostrar cómo se verá el sistema una vez implementado, incluyendo los colores, tipografía, disposición de elementos y estilos visuales. Son fundamentales para establecer la apariencia del sistema antes de que se inicie el desarrollo, permitiendo a los diseñadores y desarrolladores tener una visión clara de la interfaz.
-
----
 
 ## 📁 **Estructura de Archivos**
 **Proyecto Integrador Gym (Servicio al Cliente)**

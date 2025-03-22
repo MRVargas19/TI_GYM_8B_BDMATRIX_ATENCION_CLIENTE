@@ -1,7 +1,6 @@
-# 📝 **Sketches**
+#  **Sketches** 📝
 La carpeta **Sketches** contiene los bocetos y esquemas preliminares del diseño del sistema. Estos dibujos iniciales sirven como base para la creación de los mockups y prototipos más detallados, permitiendo visualizar ideas y conceptos de manera rápida y eficiente.
 
----
 
 ## 📁 **Estructura de Archivos**
 **Proyecto Integrador Gym (Servicio al Cliente)**
@@ -46,7 +45,6 @@ La carpeta **Sketches** contiene los bocetos y esquemas preliminares del diseño
 | **Alejandro Gonzales Romero** | [@AlejandroRomero17](https://github.com/AlejandroRomero17) | Desarrollador FrontEnd           | ...           |
 
 
----
 
 Creado por: [@AnaCrisanto](https://github.com/AnaCrisanto).
 

@@ -1,7 +1,6 @@
-# 🛠️ **Support**
+#  **Support** 🛠️
+##  Descripción
 La carpeta **Support** contiene toda la información relacionada con el soporte del sistema. Esta carpeta incluye los documentos necesarios para la atención de problemas, actualizaciones, mantenimiento y resolución de incidencias. El contenido de **Support** es crucial para garantizar que el sistema se mantenga operativo y que los usuarios reciban el soporte adecuado cuando sea necesario.
-
----
 
 ## 📁 **Estructura de Archivos**
 **Proyecto Integrador Gym (Servicio al Cliente)**
@@ -43,7 +42,6 @@ La carpeta **Support** contiene toda la información relacionada con el soporte 
 | **Alejandro Gonzales Romero** | [@AlejandroRomero17](https://github.com/AlejandroRomero17) | Desarrollador FrontEnd           | ...           |
 
 
----
 
 Creado por: [@MRVargas19](https://github.com/MRVargas19).
 Modificado por: [@AnaCrisanto](https://github.com/AnaCrisanto).

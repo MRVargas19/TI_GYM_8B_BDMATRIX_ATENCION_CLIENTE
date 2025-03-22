@@ -1,4 +1,5 @@
-# 🎨 **CSS**
+# **CSS** ![Prototypes](https://img.shields.io/badge/CSS-blue?logo=css3)
+##  Descripción
 La carpeta **CSS** contiene todos los archivos de hojas de estilo en cascada (CSS) utilizados para definir la apariencia visual y el diseño del sistema. Estos archivos son fundamentales para la presentación de la interfaz de usuario, asegurando que el sistema tenga una estética coherente y accesible, siguiendo los lineamientos establecidos en los requisitos de diseño.
 
 ---

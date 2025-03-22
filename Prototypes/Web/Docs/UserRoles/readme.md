@@ -1,7 +1,6 @@
-# 👥 **UserRoles**
+# **UserRoles** 👤
+##  Descripción
 La carpeta **UserRoles** contiene todos los documentos relacionados con los roles de usuario dentro del sistema. Estos archivos definen los diferentes tipos de usuarios, sus permisos y las acciones que pueden realizar dentro del sistema, permitiendo una correcta gestión de acceso y seguridad.
-
----
 
 ## 📁 **Estructura de Archivos**
 **Proyecto Integrador Gym (Servicio al Cliente)**
@@ -41,7 +40,6 @@ La carpeta **UserRoles** contiene todos los documentos relacionados con los role
 | **Alejandro Gonzales Romero** | [@AlejandroRomero17](https://github.com/AlejandroRomero17) | Desarrollador FrontEnd           | ...           |
 
 
----
 
 Creado por: [@MRVargas19](https://github.com/MRVargas19).
 Modificado por: [@AnaCrisanto](https://github.com/AnaCrisanto).

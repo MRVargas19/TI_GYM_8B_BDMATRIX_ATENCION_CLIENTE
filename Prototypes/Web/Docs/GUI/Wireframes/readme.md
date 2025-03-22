@@ -1,4 +1,5 @@
-# 🔳 **Wireframes**
+# **Wireframes** ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+##  Descripción
 La carpeta **Wireframes** contiene los esquemas básicos de la interfaz de usuario del sistema. Los **wireframes** representan la estructura y disposición de los elementos en cada pantalla sin enfocarse en el diseño visual final. Son esenciales para definir la funcionalidad y navegación antes de aplicar estilos y colores.
 
 ---

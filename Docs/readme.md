@@ -1,5 +1,7 @@
 
  # Docs 📑
+
+##  Descripción
 La carpeta **Docs** almacena toda la documentación relacionada con el proyecto. Esto puede incluir manuales, guías de usuario, especificaciones técnicas, documentación de diseño, y cualquier otro archivo informativo necesario para comprender, utilizar o mantener el sistema.
 
 ## 📁 **Estructura de Archivos**

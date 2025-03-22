@@ -1,4 +1,5 @@
-# 📦 **Assets**
+#  **Assets** 🖼️
+##  Descripción
 La carpeta **Assets** contiene todos los recursos multimedia y archivos estáticos que se utilizan en la interfaz del sistema. Estos pueden incluir imágenes, íconos, fuentes, y otros elementos gráficos que son necesarios para darle al sistema una apariencia visual coherente y profesional.
 
 ---

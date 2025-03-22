@@ -1,7 +1,7 @@
-# 🖧 **SiteMap**
-La carpeta **SiteMap** contiene los diagramas y representaciones visuales de la estructura y jerarquía del sistema. El **SiteMap** ayuda a comprender cómo se organiza la información dentro del sistema, mostrando las conexiones entre las diferentes secciones y páginas. Es esencial para planificar la navegación y la arquitectura del proyecto antes de su implementación.
+# 🖧 **SiteMap** ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
----
+##  Descripción
+La carpeta **SiteMap** contiene los diagramas y representaciones visuales de la estructura y jerarquía del sistema. El **SiteMap** ayuda a comprender cómo se organiza la información dentro del sistema, mostrando las conexiones entre las diferentes secciones y páginas. Es esencial para planificar la navegación y la arquitectura del proyecto antes de su implementación.
 
 ## 📁 **Estructura de Archivos**
 **Proyecto Integrador Gym (Servicio al Cliente)**
@@ -46,7 +46,6 @@ La carpeta **SiteMap** contiene los diagramas y representaciones visuales de la 
 | **Alejandro Gonzales Romero** | [@AlejandroRomero17](https://github.com/AlejandroRomero17) | Desarrollador FrontEnd           | ...           |
 
 
----
 
 Creado por: [@AnaCrisanto](https://github.com/AnaCrisanto).
 

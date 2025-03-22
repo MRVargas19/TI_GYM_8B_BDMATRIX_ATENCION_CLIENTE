@@ -1,7 +1,6 @@
-# 🌐 **Web**
+# **Web** 🌐
+##  Descripción
 La carpeta **Web** contiene todos los archivos relacionados con el desarrollo del sitio web. Esto incluye tanto los archivos estáticos como dinámicos, como HTML, CSS, JS, y los assets visuales que componen la interfaz de usuario del sistema. El objetivo de esta carpeta es asegurar que el sitio sea visualmente atractivo, funcional y fácil de usar.
-
----
 
 ## 📁 **Estructura de Archivos**
 **Proyecto Integrador Gym (Servicio al Cliente)**
@@ -33,8 +32,5 @@ La carpeta **Web** contiene todos los archivos relacionados con el desarrollo de
 | **Alejandro Gonzales Romero** | [@AlejandroRomero17](https://github.com/AlejandroRomero17) | Desarrollador FrontEnd           | ...           |
 
 
----
-
 Creado por: [@AnaCrisanto](https://github.com/AnaCrisanto).
-
 
