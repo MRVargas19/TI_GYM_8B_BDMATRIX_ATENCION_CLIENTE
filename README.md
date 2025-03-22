@@ -45,7 +45,7 @@ Desarrollar una aplicación web para **GymBulls** que proporcione a los usuarios
 ---
 
 ## 📅 DIAGRAMA DE GANTT
-![Diagrama de Gantt](FrontEnd/Assets/Imagenes/Diagrama_de_Gantt.png)
+![Diagrama de Gantt](Prototypes/Web/Assets/Imagenes/DiagramaGantt.png)
 
 ---
 
