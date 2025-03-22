@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Proyecto-Gym
+# Proyecto GYM 
 
 ## 🎨 GYM FIT - IDENTIDAD GRÁFICA
 La identidad gráfica de **GymBulls** busca transmitir valores de **salud, bienestar, comunidad e innovación**. Cada elemento visual está diseñado para resonar con la audiencia, destacando la importancia de llevar un estilo de vida saludable, mantenerse en forma y promover la actividad física en la comunidad.
