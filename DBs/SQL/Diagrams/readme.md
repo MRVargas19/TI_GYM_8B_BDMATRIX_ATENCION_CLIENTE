@@ -2,7 +2,6 @@
 
 La carpeta **Diagrams** almacena diagramas que muestran la estructura y el diseño de la base de datos, ayudando a visualizar fácilmente las tablas, sus atributos y cómo se relacionan entre sí.
 
-
 ## 📁 **Estructura de Archivos**
 **Proyecto Integrador Gym (Servicio al Cliente)**
 
@@ -26,23 +25,14 @@ La carpeta **Diagrams** almacena diagramas que muestran la estructura y el dise�
 └── QA
 ```
 
-# Equipo de Desarrollo
+## 👥 **Equipo de Desarrollo**
 
-|Integrante|Contacto|Rol|Observaciones|
-|----------|--------|---|-------------|
-|Jaime Vázquez Santiago|[@jaimevs](https://github.com/jaimevs)|CEO y Desarrollo Backend|...|
-|Ana Karen Crisantos Reyes|[@AnaCrisanto](https://github.com/AnaCrisanto)|Documentador|...|
-|Martin Vargas Gutierrez|[@MRVargas19](https://github.com/MRVargas19)|Documentador|...|
-|Alejandro Gonzales Romero|[@AlejandroRomero17](https://github.com/AlejandroRomero17)|Desarrollador FrontEnd|...|
+| **Integrante**                | **Contacto**                                               | **Rol**                  | **Observaciones** |
+| ----------------------------- | ---------------------------------------------------------- | ------------------------ | ----------------- |
+| **Jaime Vázquez Santiago**    | [@jaimevs](https://github.com/jaimevs)                     | CEO y Desarrollo Backend | ...               |
+| **Ana Karen Crisantos Reyes** | [@AnaCrisanto](https://github.com/AnaCrisanto)             | Documentador             | ...               |
+| **Martin Vargas Gutierrez**   | [@MRVargas19](https://github.com/MRVargas19)               | Documentador             | ...               |
+| **Alejandro Gonzales Romero** | [@AlejandroRomero17](https://github.com/AlejandroRomero17) | Desarrollador FrontEnd   | ...               |
+
 
 Creado por: [@MRVargas19](https://github.com/MRVargas19).
-
-
-
-
-
-
-
-
-
-

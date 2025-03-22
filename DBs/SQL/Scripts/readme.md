@@ -1,22 +1,30 @@
- # Scripts
+# **Scripts** ![SQL](https://img.shields.io/badge/SQL-blue?logo=microsoftsqlserver)
+
 La carpeta **Scripts** contiene archivos para realizar tareas específicas en la base de datos o en el sistema, como crear estructuras, migrar información o automatizar procesos. Estos archivos pueden ser scripts escritos en SQL, Python, Bash, u otros lenguajes, facilitando la administración eficiente del sistema.
 
-# Estructura de Archivos
->Proyecto Integrador Gym(Atencion al Cliente)<br>
->&nbsp;&nbsp;|- DBs.<br>
->&nbsp;&nbsp;&nbsp;|- SQL.<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- Backups.<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- DataDictionary.<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- Diagrams.<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- Events.<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- Queries.<br>
->&nbsp;&nbsp;&nbsp;&nbsp;**|- Scripts.**<br>
->&nbsp;&nbsp;&nbsp;&nbsp;|- Triggers.<br>
->&nbsp;&nbsp;&nbsp;|- NoSQL.<br>
->&nbsp;&nbsp;|- Deliverables.<br>
->&nbsp;&nbsp;|- Docs.<br>
->&nbsp;&nbsp;|- Prototype.<br>
->&nbsp;&nbsp;|- QA.<br>
+## 📁 **Estructura de Archivos**
+**Proyecto Integrador Gym (Atención al Cliente)**
+
+```plaintext
+├── DBs
+│   ├── **SQL**
+│   │   ├── Backups
+│   │   ├── DataDictionary
+│   │   ├── Diagrams
+│   │   ├── Events
+│   │   ├── Queries
+│   │   ├── **Scripts**
+│   │   │   ├── Creation
+│   │   │   ├── Functions
+│   │   │   ├── Poblate
+│   │   │   └── USPs
+│   │   └── Triggers
+│   └── NoSQL
+├── Deliverables
+├── Docs
+├── Prototype
+└── QA
+```
 
 # Equipo de Desarrollo
 
@@ -38,6 +46,6 @@ Creado por: [@MRVargas19](https://github.com/MRVargas19).
 
 
 
- 
- 
- 
+
+
+
