@@ -40,7 +40,7 @@ La carpeta **Mockups** contiene los diseños visuales preliminares del sistema, 
 | Integrantes                    | Contacto                                                   | Rol                             | Observaciones |
 | ----------------------------- | ---------------------------------------------------------- | ------------------------------- | ------------- |
 | **Jaime Vázquez Santiago**    | [@jaimevs](https://github.com/jaimevs)                     | Líder de Desarrollo Frontend    | ...           |
-| **Ana Karen Crisantos Reyes** | [@AnaCrisanto](https://github.com/AnaCrisanto)             | Desarrollador de Bases de Datos | ...           |
+| **Ana Karen Crisanto Reyes** | [@AnaCrisanto](https://github.com/AnaCrisanto)             | Desarrollador de Bases de Datos | ...           |
 | **Martin Vargas Gutierrez**   | [@MRVargas19](https://github.com/MRVargas19)               | Desarrollador FrontEnd          | ...           |
 | **Alejandro Gonzales Romero** | [@AlejandroRomero17](https://github.com/AlejandroRomero17) | Desarrollador Backend           | ...           |
 
