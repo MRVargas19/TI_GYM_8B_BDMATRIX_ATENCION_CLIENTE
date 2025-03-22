@@ -3,7 +3,7 @@
 La carpeta **Poblate** contiene scripts utilizados para insertar datos iniciales o de prueba en la base de datos. Estos scripts permiten cargar rápidamente información básica o ejemplos útiles para probar el sistema.
 
 ## 📁 **Estructura de Archivos**
-**Proyecto Integrador Gym (Atención al Cliente)**
+**Proyecto Integrador Gym (Servicio al Cliente)**
 
 ```plaintext
 ├── DBs

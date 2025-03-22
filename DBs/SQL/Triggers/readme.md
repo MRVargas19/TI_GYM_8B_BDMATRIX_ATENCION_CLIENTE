@@ -3,7 +3,7 @@
 La carpeta **Triggers** contiene archivos relacionados con los triggers, que son acciones automáticas ejecutadas al insertar, actualizar o borrar datos. Incluye scripts, documentación y ejemplos que ayudan a mantener los datos seguros y consistentes.
 
 ## 📁 **Estructura de Archivos**
-**Proyecto Integrador Gym (Atención al Cliente)**
+**Proyecto Integrador Gym (Servicio al Cliente)**
 
 ```plaintext
 ├── DBs

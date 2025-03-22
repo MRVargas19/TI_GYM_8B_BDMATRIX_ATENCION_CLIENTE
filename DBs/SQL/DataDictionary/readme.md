@@ -3,7 +3,7 @@
 La carpeta **DataDictionary** contiene documentos que describen claramente la estructura y características de las tablas, columnas y relaciones en la base de datos del sistema. Sirve como referencia rápida para entender fácilmente cómo está organizada la información del sistema.
 
 ## 📁 **Estructura de Archivos**
-**Proyecto Integrador Gym (Atención al Cliente)**
+**Proyecto Integrador Gym (Servicio al Cliente)**
 
 ```plaintext
 ├── DBs

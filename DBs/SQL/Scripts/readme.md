@@ -3,7 +3,7 @@
 La carpeta **Scripts** contiene archivos para realizar tareas específicas en la base de datos o en el sistema, como crear estructuras, migrar información o automatizar procesos. Estos archivos pueden ser scripts escritos en SQL, Python, Bash, u otros lenguajes, facilitando la administración eficiente del sistema.
 
 ## 📁 **Estructura de Archivos**
-**Proyecto Integrador Gym (Atención al Cliente)**
+**Proyecto Integrador Gym (Servicio al Cliente)**
 
 ```plaintext
 ├── DBs

@@ -3,7 +3,7 @@
 La carpeta **USPs** (User Stored Procedures) contiene procedimientos almacenados en la base de datos. Estos procedimientos realizan operaciones predefinidas como consultas, modificaciones, validaciones o automatización de procesos, ayudando a simplificar y mejorar la gestión de los datos.
 
 ## 📁 **Estructura de Archivos**
-**Proyecto Integrador Gym (Atención al Cliente)**
+**Proyecto Integrador Gym (Servicio al Cliente)**
 
 ```plaintext
 ├── DBs
